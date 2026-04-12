@@ -109,3 +109,12 @@ plt.close()
 
 print("Analysis completed successfully.")
 print(f"Final dataset size: {len(clean)}")
+
+
+import seaborn as sns
+
+plt.figure(figsize=(8,5))
+sns.heatmap(clean[["imdb_score","num_voted_users","duration_min","release_year"]].corr(), annot=True)
+plt.title("Correlation Heatmap")
+plt.savefig("plots/grafik/heatmap.png")
+plt.close()
