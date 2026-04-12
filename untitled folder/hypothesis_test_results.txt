@@ -1,0 +1,18 @@
+HYPOTHESIS TEST RESULTS
+
+Dataset size after cleaning and merging: 671 movies
+
+H1: There is a relationship between vote count and IMDb score.
+Pearson correlation = 0.521
+p-value = 5.69927e-48
+
+H2: Average IMDb scores are different across genres.
+Genres used in ANOVA: Action & Adventure, Dramas, Comedies, Children & Family Movies, Horror Movies, Classic Movies
+ANOVA F-statistic = 30.613
+p-value = 6.71522e-28
+
+H3: Movies released before 2000 and after 2000 have different average IMDb scores.
+Mean IMDb score (before 2000) = 6.866
+Mean IMDb score (2000 and after) = 6.483
+Welch t-statistic = 3.684
+p-value = 0.00029439

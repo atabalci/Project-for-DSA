@@ -1,0 +1,672 @@
+title,release_year,duration_min,primary_genre,imdb_score,num_voted_users
+Grown Ups,2010,103.0,Comedies,6.0,181443
+Jaws,1975,124.0,Action & Adventure,8.0,412454
+Jaws 2,1978,116.0,Dramas,5.7,51314
+Jaws: The Revenge,1987,91.0,Action & Adventure,2.8,30840
+Safe House,2012,115.0,Action & Adventure,6.8,166693
+Training Day,2001,122.0,Dramas,7.7,305929
+Bright Star,2009,119.0,Dramas,7.0,21360
+In the Cut,2003,118.0,Thrillers,5.3,18632
+A Cinderella Story,2004,95.0,Children & Family Movies,5.9,62861
+An Unfinished Life,2005,108.0,Dramas,7.0,24033
+Chappie,2015,121.0,Action & Adventure,6.9,172965
+Clear and Present Danger,1994,142.0,Action & Adventure,6.9,69663
+Cliffhanger,1993,113.0,Action & Adventure,6.4,96096
+Cold Mountain,2003,154.0,Dramas,7.2,118483
+Crocodile Dundee in Los Angeles,2001,95.0,Action & Adventure,4.8,19699
+Dear John,2010,108.0,Dramas,6.3,104356
+Do the Right Thing,1989,120.0,Classic Movies,7.9,59524
+Freedom Writers,2007,124.0,Dramas,7.5,52533
+Green Lantern,2011,114.0,Action & Adventure,5.6,223393
+House Party 2,1991,94.0,Comedies,5.1,3571
+I Got the Hook Up,1998,93.0,Action & Adventure,3.9,1721
+In Too Deep,1999,97.0,Thrillers,6.1,4598
+Letters to Juliet,2010,105.0,Comedies,6.5,74630
+Mars Attacks!,1996,106.0,Comedies,6.3,172217
+My Boss's Daughter,2003,86.0,Comedies,4.6,24038
+Mystery Men,1999,121.0,Action & Adventure,6.0,53970
+Once Upon a Time in America,1984,229.0,Classic Movies,8.4,221000
+Osmosis Jones,2001,95.0,Action & Adventure,6.2,25572
+Poseidon,2006,98.0,Action & Adventure,5.6,82380
+School of Rock,2003,110.0,Comedies,7.1,210680
+Tears of the Sun,2003,121.0,Action & Adventure,6.6,93494
+The Blue Lagoon,1980,105.0,Dramas,5.7,50125
+The Golden Child,1986,94.0,Action & Adventure,5.9,39798
+The Interview,2014,112.0,Action & Adventure,6.6,247020
+The Nutty Professor,1996,95.0,Comedies,5.6,86556
+The November Man,2014,108.0,Action & Adventure,6.3,50056
+Like Crazy,2011,91.0,Dramas,6.7,46813
+The Piano,1993,121.0,Classic Movies,7.6,63931
+The Railway Man,2013,108.0,Dramas,7.1,27882
+Quartet,2012,98.0,Comedies,6.8,15684
+Beowulf,2007,114.0,Action & Adventure,6.3,142440
+Catch Me If You Can,2002,142.0,Dramas,8.0,525801
+Cloudy with a Chance of Meatballs,2009,90.0,Children & Family Movies,7.0,152601
+Deep Blue Sea,1999,105.0,Action & Adventure,5.8,99043
+Good Luck Chuck,2007,99.0,Comedies,5.6,74622
+Inception,2010,148.0,Action & Adventure,8.8,1468200
+Magnolia,1999,189.0,Dramas,8.0,241030
+My Girl,1991,102.0,Dramas,6.8,55895
+Pineapple Express,2008,112.0,Action & Adventure,7.0,255257
+Planet 51,2009,91.0,Children & Family Movies,6.1,41259
+Seabiscuit,2003,141.0,Dramas,7.3,57661
+Space Cowboys,2000,130.0,Action & Adventure,6.4,60165
+Team America: World Police,2004,98.0,Action & Adventure,7.2,136048
+The Haunting in Connecticut 2: Ghosts of Georgia,2013,101.0,Horror Movies,5.3,13167
+The Lincoln Lawyer,2011,118.0,Dramas,7.3,173848
+The Losers,2010,97.0,Action & Adventure,6.4,74691
+The Machinist,2004,102.0,Dramas,7.7,281649
+The Net,1995,114.0,Thrillers,5.8,48909
+The Original Kings of Comedy,2000,111.0,Stand-Up Comedy,6.6,4687
+Valentine's Day,2010,125.0,Comedies,5.7,95437
+Django Unchained,2012,165.0,Action & Adventure,8.5,955174
+The Twilight Saga: Eclipse,2010,124.0,Dramas,4.9,184637
+The Twilight Saga: New Moon,2009,131.0,Dramas,4.6,220758
+Twilight,2008,122.0,Action & Adventure,5.2,348007
+Twilight,2008,122.0,Action & Adventure,5.2,348010
+Surf's Up,2007,86.0,Children & Family Movies,6.8,54077
+Brick Mansions,2014,90.0,Action & Adventure,5.7,32103
+Snowpiercer,2013,126.0,Action & Adventure,7.0,181472
+Air Force One,1997,125.0,Action & Adventure,6.4,146134
+Austin Powers in Goldmember,2002,94.0,Action & Adventure,6.2,162909
+Austin Powers: International Man of Mystery,1997,90.0,Comedies,7.0,183425
+Austin Powers: The Spy Who Shagged Me,1999,95.0,Action & Adventure,6.6,181225
+Boogie Nights,1997,155.0,Comedies,7.9,189032
+Charlie's Angels,2000,98.0,Action & Adventure,5.5,145350
+Congo,1995,108.0,Action & Adventure,5.0,34471
+Kung Fu Panda,2008,94.0,Children & Family Movies,7.6,307029
+Kung Fu Panda 2,2011,93.0,Children & Family Movies,7.3,182718
+Memoirs of a Geisha,2005,145.0,Dramas,7.3,119286
+Midnight Run,1988,126.0,Action & Adventure,7.6,54042
+Mortal Kombat,1995,101.0,Action & Adventure,5.8,81783
+No Strings Attached,2011,109.0,Comedies,6.2,168717
+Not Another Teen Movie,2001,89.0,Comedies,5.7,80305
+Seven Pounds,2008,123.0,Dramas,7.7,232710
+She's Out of My League,2010,106.0,Comedies,6.4,101730
+Snow Day,2000,89.0,Children & Family Movies,4.9,9285
+Star Trek,2009,128.0,Action & Adventure,8.0,504419
+Stuart Little,1999,85.0,Children & Family Movies,5.9,94172
+Talladega Nights: The Ballad of Ricky Bobby,2006,108.0,Action & Adventure,6.6,130776
+The American,2010,105.0,Dramas,6.3,79461
+The Game,1997,129.0,Thrillers,7.8,261069
+The Karate Kid,1984,127.0,Action & Adventure,7.2,126907
+The Karate Kid,1984,127.0,Action & Adventure,7.2,126916
+The Life of David Gale,2003,130.0,Dramas,7.5,88270
+The Long Riders,1980,100.0,Action & Adventure,7.1,7322
+The Queen,2006,103.0,Dramas,7.3,85333
+The Sum of All Fears,2002,124.0,Action & Adventure,6.4,86504
+The Tourist,2010,103.0,Action & Adventure,6.0,176598
+The Tourist,2010,103.0,Action & Adventure,6.0,176606
+Underworld,2003,121.0,Action & Adventure,7.0,208092
+Underworld: Awakening,2012,89.0,Action & Adventure,6.4,117096
+Underworld: Rise of the Lycans,2009,92.0,Action & Adventure,6.6,119974
+What Dreams May Come,1998,114.0,Dramas,7.0,83560
+Killing Them Softly,2012,97.0,Dramas,6.2,111625
+Silver Linings Playbook,2012,122.0,Comedies,7.8,533607
+A Haunted House 2,2014,86.0,Comedies,4.7,14621
+American Outlaws,2001,94.0,Action & Adventure,6.0,12077
+Battlefield Earth,2000,118.0,Action & Adventure,2.4,65464
+Cradle 2 the Grave,2003,101.0,Action & Adventure,5.8,34942
+Domestic Disturbance,2001,89.0,Thrillers,5.5,21283
+Flipped,2010,90.0,Comedies,7.7,60460
+I Am Sam,2001,132.0,Dramas,7.6,121937
+Love Jones,1997,109.0,Comedies,7.4,2801
+Million Dollar Baby,2004,133.0,Dramas,8.1,482064
+Never Back Down 2: The Beatdown,2011,104.0,Action & Adventure,5.8,13599
+Ninja Assassin,2009,99.0,Action & Adventure,6.4,58349
+Starsky & Hutch,2004,101.0,Action & Adventure,6.1,120795
+Swordfish,2001,99.0,Action & Adventure,6.5,155532
+The Four Seasons,1981,108.0,Comedies,7.2,3157
+The Interpreter,2005,128.0,Thrillers,6.4,86152
+The Mirror Has Two Faces,1996,127.0,Comedies,6.5,11453
+Home,2015,94.0,Children & Family Movies,6.7,70121
+Home,2015,94.0,Children & Family Movies,6.7,70133
+Home,2015,94.0,Children & Family Movies,6.7,70136
+Sabotage,2014,109.0,Action & Adventure,5.7,47498
+Sabotage,2014,109.0,Action & Adventure,5.7,47502
+Layer Cake,2004,105.0,Independent Movies,7.4,134070
+Dead Man Down,2013,118.0,Action & Adventure,6.5,54147
+Due Date,2010,95.0,Action & Adventure,6.6,272789
+Green Zone,2010,115.0,Action & Adventure,6.9,110364
+Hachi: A Dog's Tale,2009,93.0,Children & Family Movies,8.1,155249
+Madagascar 3: Europe's Most Wanted,2012,96.0,Children & Family Movies,6.9,119213
+Mystic River,2003,138.0,Dramas,8.0,338415
+Never Back Down,2008,113.0,Action & Adventure,6.6,80556
+State of Play,2009,127.0,Dramas,7.1,113295
+The Darkest Hour,2011,89.0,Action & Adventure,4.9,49312
+The Lovely Bones,2009,136.0,Dramas,6.7,125109
+The Lovely Bones,2009,136.0,Dramas,6.7,125114
+The Sweetest Thing,2002,89.0,Comedies,5.1,46158
+The Whole Nine Yards,2000,99.0,Action & Adventure,6.7,90374
+Zack and Miri Make a Porno,2008,101.0,Comedies,6.6,149835
+Rush,2013,123.0,Action & Adventure,8.1,312629
+The Master,2012,137.0,Dramas,7.1,105144
+Escape from Planet Earth,2013,89.0,Children & Family Movies,5.9,20615
+2012,2009,158.0,Action & Adventure,5.8,283418
+Insidious,2010,103.0,Horror Movies,6.8,202800
+Into the Grizzly Maze,2015,90.0,Action & Adventure,5.3,4486
+Legally Blonde,2001,96.0,Comedies,6.2,131801
+Maximum Risk,1996,101.0,Action & Adventure,5.4,15814
+My Fair Lady,1964,173.0,Classic Movies,7.9,66959
+Takers,2010,107.0,Action & Adventure,6.2,46961
+The Pianist,2002,149.0,Dramas,8.5,497946
+The Stepfather,2009,102.0,Horror Movies,5.6,23424
+Universal Soldier: The Return,1999,83.0,Action & Adventure,4.1,24216
+Yes Man,2008,104.0,Comedies,6.8,271691
+Mandela: Long Walk to Freedom,2013,141.0,Dramas,7.1,21223
+Philomena,2013,98.0,Dramas,7.6,76094
+Get on Up,2014,139.0,Dramas,6.9,15843
+Savages,2012,131.0,Dramas,6.5,104301
+The BFG,2016,118.0,Children & Family Movies,6.8,12572
+Parker,2013,119.0,Action & Adventure,6.2,90046
+Safe Haven,2013,116.0,Dramas,6.7,78008
+Black or White,2014,121.0,Dramas,6.6,8058
+Dances with Wolves,1990,181.0,Action & Adventure,8.0,186485
+Rain Man,1988,134.0,Classic Movies,8.0,383784
+No Escape,2015,103.0,Action & Adventure,6.8,48675
+Our Idiot Brother,2011,90.0,Comedies,6.4,74875
+The Conjuring,2013,112.0,Horror Movies,7.5,300110
+The Conjuring 2,2016,134.0,Horror Movies,7.8,64989
+Middle of Nowhere,2012,102.0,Dramas,6.5,1034
+Shutter Island,2010,139.0,Thrillers,8.1,786092
+The Bank Job,2008,112.0,Dramas,7.3,152247
+The Next Three Days,2010,133.0,Dramas,7.4,146364
+Homefront,2013,100.0,Action & Adventure,6.5,82804
+Playing for Keeps,2012,106.0,Comedies,5.7,23916
+Case 39,2009,111.0,Horror Movies,6.2,60555
+Into the Wild,2007,148.0,Action & Adventure,8.2,426359
+Mystic Pizza,1988,104.0,Comedies,6.2,18286
+Unknown,2011,113.0,Action & Adventure,6.9,210542
+Unknown,2011,113.0,Action & Adventure,6.9,210548
+What's Eating Gilbert Grape,1993,118.0,Classic Movies,7.8,171882
+Rango,2011,110.0,Children & Family Movies,7.2,183208
+Lee Daniels' The Butler,2013,132.0,Dramas,7.2,87665
+Triple 9,2016,115.0,Dramas,6.3,32567
+3 Days to Kill,2014,117.0,Action & Adventure,6.2,69355
+Angels & Demons,2009,139.0,Thrillers,6.7,207839
+Monster House,2006,91.0,Children & Family Movies,6.6,71137
+Quigley Down Under,1990,120.0,Action & Adventure,6.8,15230
+The Da Vinci Code,2006,149.0,Thrillers,6.6,314253
+Machete Kills,2013,108.0,Action & Adventure,5.6,59248
+Cloudy with a Chance of Meatballs 2,2013,95.0,Children & Family Movies,6.5,64387
+Fruitvale Station,2013,85.0,Dramas,7.5,53919
+Prom Night,2008,88.0,Horror Movies,3.9,27664
+The Impossible,2012,114.0,Dramas,7.6,145270
+Metallica Through The Never,2013,93.0,Music & Musicals,7.2,13359
+ParaNorman,2012,93.0,Children & Family Movies,7.0,72287
+Unfriended,2014,83.0,Horror Movies,5.7,44329
+Free State of Jones,2016,139.0,Action & Adventure,6.7,3077
+Rize,2005,87.0,Documentaries,7.1,2877
+Real Steel,2011,127.0,Action & Adventure,7.1,254841
+Raising Victor Vargas,2002,88.0,Dramas,7.2,4743
+The Smurfs 2,2013,105.0,Children & Family Movies,5.4,27257
+How to Train Your Dragon 2,2014,102.0,Children & Family Movies,7.9,221128
+Hotel for Dogs,2009,101.0,Children & Family Movies,5.4,16271
+Puss in Boots,2011,92.0,Children & Family Movies,6.7,114287
+Sex Drive,2008,109.0,Comedies,6.5,72715
+Soldier,1998,155.0,Comedies,6.0,44248
+The Smurfs,2011,103.0,Children & Family Movies,5.5,66593
+The Young Messiah,2016,111.0,Dramas,5.4,1449
+Les Misérables,2012,158.0,Dramas,7.6,243834
+Seventh Son,2014,102.0,Action & Adventure,5.5,54501
+Mr. Peabody & Sherman,2014,93.0,Children & Family Movies,6.9,47900
+Double Jeopardy,1999,105.0,Thrillers,6.4,56646
+Stardust,2007,128.0,Action & Adventure,7.7,212085
+Total Recall,1990,114.0,Action & Adventure,7.5,240241
+Total Recall,1990,114.0,Action & Adventure,7.5,240241
+The Nut Job,2014,85.0,Children & Family Movies,5.8,19547
+Underdogs,2013,85.0,Children & Family Movies,6.7,6920
+Madagascar: Escape 2 Africa,2008,91.0,Children & Family Movies,6.7,146019
+What a Girl Wants,2003,105.0,Children & Family Movies,5.8,48095
+The Artist,2011,101.0,Comedies,8.0,190030
+"Hail, Caesar!",2016,106.0,Comedies,6.4,60926
+The Last Airbender,2010,104.0,Action & Adventure,4.2,118951
+Kabhi Alvida Naa Kehna,2006,192.0,Dramas,6.0,13998
+The Runaways,2010,107.0,Dramas,6.6,39260
+Hugo,2011,127.0,Children & Family Movies,7.5,245333
+There Will Be Blood,2007,158.0,Dramas,8.1,372990
+The Visit,2015,138.0,Dramas,6.2,65299
+By the Sea,2015,122.0,Dramas,5.3,7976
+The Forest,2016,93.0,Horror Movies,4.8,20837
+Hop,2011,95.0,Children & Family Movies,5.5,24089
+Legend,2015,132.0,Dramas,7.0,87682
+Steve Jobs,2015,122.0,Dramas,7.2,93548
+Jimmy Neutron: Boy Genius,2001,83.0,Children & Family Movies,6.0,23943
+Pan's Labyrinth,2006,119.0,Dramas,8.2,467234
+The Green Inferno,2013,101.0,Horror Movies,5.4,21468
+A Single Man,2009,100.0,Dramas,7.6,83182
+Sinister 2,2015,97.0,Horror Movies,5.2,25210
+Rugrats in Paris: The Movie,2000,79.0,Children & Family Movies,6.1,8146
+The Rugrats Movie,1998,81.0,Children & Family Movies,5.9,14005
+The Squid and the Whale,2005,81.0,Comedies,7.4,60295
+The Grandmaster,2013,108.0,Action & Adventure,6.5,24557
+Olympus Has Fallen,2013,119.0,Action & Adventure,6.5,203154
+About Time,2013,123.0,Comedies,7.8,202341
+The Spiderwick Chronicles,2008,97.0,Children & Family Movies,6.6,68935
+Monty Python and the Holy Grail,1975,92.0,Action & Adventure,8.3,382240
+Kill the Messenger,2014,112.0,Dramas,7.0,32382
+The Theory of Everything,2014,123.0,Dramas,7.7,265507
+Big Miracle,2012,107.0,Children & Family Movies,6.5,15231
+Fiza,2000,163.0,Dramas,6.2,2715
+Rang De Basanti,2006,159.0,Dramas,8.4,70233
+Namastey London,2007,130.0,Comedies,7.3,13577
+The Hateful Eight,2015,168.0,Action & Adventure,7.9,272839
+Demonic,2015,83.0,Horror Movies,5.3,7358
+Howards End,1992,143.0,Classic Movies,7.5,21254
+Bee Movie,2007,92.0,Children & Family Movies,6.2,105902
+Ip Man 3,2015,105.0,Action & Adventure,7.2,21912
+The Ridiculous 6,2015,120.0,Action & Adventure,4.9,27019
+Circle,2015,86.0,Dramas,6.0,13279
+The Square,2013,105.0,Documentaries,8.1,6678
+9,2009,80.0,Action & Adventure,7.1,111117
+21,2008,123.0,Dramas,6.8,191470
+Æon Flux,2005,93.0,Action & Adventure,5.5,110614
+16 Blocks,2006,102.0,Action & Adventure,6.6,112769
+17 Again,2009,102.0,Comedies,6.4,146899
+20 Feet From Stardom,2013,91.0,Documentaries,7.4,9540
+21 & Over,2013,93.0,Comedies,5.9,60407
+28 Days,2000,104.0,Comedies,6.0,34597
+30 Minutes or Less,2011,83.0,Action & Adventure,6.1,77935
+50 First Dates,2004,99.0,Comedies,6.8,266103
+50/50,2011,100.0,Comedies,7.7,270441
+A Bridge Too Far,1977,176.0,Action & Adventure,7.4,40277
+A Haunted House,2013,86.0,Comedies,5.1,34620
+A Most Violent Year,2014,125.0,Dramas,7.0,45799
+A Night at the Roxbury,1998,82.0,Comedies,6.2,48458
+A Separation,2011,123.0,Dramas,8.4,151812
+A Serious Man,2009,106.0,Comedies,7.0,102125
+A Thousand Words,2012,92.0,Comedies,5.9,30842
+A Walk to Remember,2002,102.0,Dramas,7.4,162701
+About a Boy,2002,101.0,Comedies,7.1,144021
+Across the Universe,2007,133.0,Dramas,7.4,91860
+Across the Universe,2007,133.0,Dramas,7.4,91863
+Act of Valor,2012,110.0,Action & Adventure,6.5,57996
+Adore,2013,111.0,Dramas,6.2,23334
+All the Boys Love Mandy Lane,2006,91.0,Horror Movies,5.6,25951
+Along Came a Spider,2001,103.0,Thrillers,6.3,59232
+American Beauty,1999,122.0,Dramas,8.4,822500
+American Heist,2014,95.0,Action & Adventure,5.2,12372
+American History X,1998,119.0,Dramas,8.6,782437
+American Psycho,2000,102.0,Comedies,7.6,357275
+Angel Eyes,2001,103.0,Dramas,5.6,19686
+Apollo 18,2011,87.0,Horror Movies,5.2,47227
+Arthur Christmas,2011,98.0,Children & Family Movies,7.1,35446
+"As Above, So Below",2014,93.0,Horror Movies,6.1,49948
+As Good as It Gets,1997,139.0,Comedies,7.7,224671
+Automata,2014,110.0,International Movies,6.1,41638
+Babel,2006,143.0,Dramas,7.5,243799
+Bad Boys,1995,119.0,Action & Adventure,6.8,172405
+Bad Boys II,2003,147.0,Action & Adventure,6.6,178126
+Beavis and Butt-head Do America,1996,81.0,Comedies,6.8,42892
+Becoming Jane,2007,121.0,Dramas,7.1,46204
+Bedtime Stories,2008,100.0,Children & Family Movies,6.1,72326
+Big Daddy,1999,93.0,Comedies,6.4,161858
+Big Fat Liar,2002,88.0,Children & Family Movies,5.4,29008
+Big Fat Liar,2002,88.0,Children & Family Movies,5.4,29008
+Billy Elliot,2000,110.0,Dramas,7.7,98354
+Black Hawk Down,2001,144.0,Action & Adventure,7.7,292022
+Blow,2001,123.0,Dramas,7.6,198066
+Blue Jasmine,2013,98.0,Comedies,7.3,150082
+Blue Ruin,2013,90.0,Independent Movies,7.1,42678
+Blue Streak,1999,94.0,Action & Adventure,6.3,60572
+Blue Valentine,2010,112.0,Dramas,7.4,141425
+Bolt,2008,99.0,Children & Family Movies,6.9,146766
+Brooklyn's Finest,2009,133.0,Dramas,6.7,52852
+Burlesque,2010,119.0,Dramas,6.4,61680
+Cabin Fever,2016,98.0,Horror Movies,3.7,3313
+Can't Hardly Wait,1998,101.0,Comedies,6.5,37885
+Carriers,2009,85.0,Horror Movies,6.0,35510
+Casa de mi Padre,2012,84.0,Comedies,5.5,17169
+Casino Royale,2006,145.0,Action & Adventure,8.0,470483
+Casino Royale,2006,145.0,Action & Adventure,8.0,470501
+Cat on a Hot Tin Roof,1958,108.0,Classic Movies,8.1,33741
+Cats & Dogs: The Revenge of Kitty Galore,2010,82.0,Children & Family Movies,4.3,10233
+Center Stage,2000,116.0,Dramas,6.7,15817
+Charlie and the Chocolate Factory,2005,115.0,Children & Family Movies,6.7,320284
+Charlie's Angels: Full Throttle,2003,106.0,Action & Adventure,4.8,100821
+Chasing Amy,1997,113.0,Comedies,7.3,114070
+Chernobyl Diaries,2012,88.0,Horror Movies,5.0,52642
+Chicken Little,2005,82.0,Children & Family Movies,5.8,63912
+Child's Play,1988,87.0,Cult Movies,6.5,62038
+Chloe,2009,96.0,Independent Movies,6.3,56264
+Christmas with the Kranks,2004,99.0,Children & Family Movies,5.2,27548
+Cirque du Freak: The Vampire's Assistant,2009,109.0,Action & Adventure,5.9,35990
+City of God,2002,130.0,Dramas,8.7,533200
+Clash of the Titans,2010,106.0,Action & Adventure,5.8,229679
+Clash of the Titans,2010,106.0,Action & Adventure,5.8,229687
+Click,2006,108.0,Comedies,6.4,246492
+Cloud Atlas,2012,172.0,Action & Adventure,7.5,284825
+Cloverfield,2008,85.0,Action & Adventure,7.0,296787
+Coach Carter,2005,137.0,Dramas,7.2,92702
+Code Name: The Cleaner,2007,91.0,Action & Adventure,4.5,9785
+Coraline,2009,101.0,Children & Family Movies,7.7,143121
+Crash,2004,112.0,Dramas,7.9,361169
+Crash,2004,112.0,Dramas,7.9,361169
+"Crouching Tiger, Hidden Dragon",2000,120.0,Action & Adventure,7.9,217740
+Daddy Day Care,2003,93.0,Children & Family Movies,5.5,49486
+Dallas Buyers Club,2013,117.0,Dramas,8.0,326494
+Dante's Peak,1997,108.0,Action & Adventure,5.8,62271
+Die Another Day,2002,133.0,Action & Adventure,6.1,169914
+Dinner for Schmucks,2010,115.0,Comedies,5.9,80338
+District 9,2009,112.0,Action & Adventure,8.0,531737
+Doctor Zhivago,1965,200.0,Classic Movies,8.0,55816
+Dolphin Tale 2,2014,107.0,Children & Family Movies,6.4,6069
+Don't Be Afraid of the Dark,2010,99.0,Horror Movies,5.6,40776
+Donnie Brasco,1997,127.0,Dramas,7.8,225122
+Doom,2005,105.0,Action & Adventure,5.2,88146
+Doubt,2008,104.0,Dramas,7.5,99236
+Dragonheart,1996,103.0,Action & Adventure,6.4,78343
+Dumb and Dumberer: When Harry Met Lloyd,2003,85.0,Comedies,3.4,30651
+Earth to Echo,2014,91.0,Children & Family Movies,5.8,15664
+Easy A,2010,92.0,Comedies,7.1,276746
+Eat Pray Love,2010,140.0,Dramas,5.7,63493
+Employee of the Month,2006,108.0,Comedies,5.5,37681
+End of Watch,2012,109.0,Action & Adventure,7.7,181025
+Equilibrium,2002,107.0,Action & Adventure,7.5,261317
+Evan Almighty,2007,96.0,Children & Family Movies,5.4,115099
+Event Horizon,1997,96.0,Horror Movies,6.7,120416
+Ex Machina,2015,108.0,Dramas,7.7,289508
+Executive Decision,1996,133.0,Action & Adventure,6.4,40858
+Exit Wounds,2001,101.0,Action & Adventure,5.5,27580
+Fear and Loathing in Las Vegas,1998,118.0,Comedies,7.7,213226
+Fiddler on the Roof,1971,181.0,Classic Movies,8.0,29839
+Final Destination,2000,98.0,Cult Movies,6.7,181058
+Final Destination 2,2003,90.0,Horror Movies,6.2,120786
+Final Destination 3,2006,93.0,Horror Movies,5.8,102861
+Flash of Genius,2008,119.0,Dramas,7.0,14301
+For Colored Girls,2010,134.0,Dramas,6.0,6067
+Four Christmases,2008,88.0,Comedies,5.6,48500
+Four Weddings and a Funeral,1994,118.0,Classic Movies,7.1,107923
+Frances Ha,2012,86.0,Comedies,7.4,43982
+From Paris with Love,2010,93.0,Action & Adventure,6.5,97775
+Frozen River,2008,97.0,Dramas,7.2,21746
+G-Force,2009,88.0,Children & Family Movies,5.1,33042
+Gangs of New York,2002,167.0,Dramas,7.5,314033
+Get Him to the Greek,2010,109.0,Comedies,6.4,147317
+Get Smart,2008,110.0,Action & Adventure,6.5,168172
+Ghost Rider,2007,110.0,Action & Adventure,5.2,182661
+GoldenEye,1995,130.0,Action & Adventure,7.2,199025
+Good Kill,2014,103.0,Dramas,6.4,15756
+GoodFellas,1990,145.0,Classic Movies,8.7,728685
+Gosford Park,2001,137.0,Comedies,7.3,65201
+Gothika,2003,98.0,Horror Movies,5.8,89557
+Gran Torino,2008,117.0,Dramas,8.2,561773
+Grease,1978,110.0,Classic Movies,7.2,170027
+Green Room,2015,95.0,Horror Movies,7.1,28845
+Hairspray,2007,116.0,Children & Family Movies,6.7,98693
+Harold & Kumar Escape from Guantanamo Bay,2008,101.0,Comedies,6.6,113918
+Harold & Kumar Go to White Castle,2004,88.0,Comedies,7.1,155262
+Haywire,2011,93.0,Action & Adventure,5.8,72646
+Heartbreakers,2001,124.0,Comedies,6.2,44168
+Hellboy,2004,122.0,Action & Adventure,6.8,244566
+Her,2013,126.0,Dramas,8.0,355126
+Hitch,2005,118.0,Comedies,6.6,244840
+Hoodwinked Too! Hood vs. Evil,2011,86.0,Children & Family Movies,4.8,9682
+Hot Rod,2007,88.0,Comedies,6.7,59900
+House at the End of the Street,2012,101.0,Horror Movies,5.6,58366
+How the Grinch Stole Christmas,2000,105.0,Children & Family Movies,6.0,141414
+How to Be a Player,1997,94.0,Comedies,5.3,2301
+Hustle & Flow,2005,117.0,Dramas,7.4,33567
+I Am Wrath,2016,91.0,Action & Adventure,5.2,4510
+I Don't Know How She Does It,2011,89.0,Comedies,4.9,16437
+Imagine That,2009,108.0,Children & Family Movies,5.6,10417
+Indiana Jones and the Kingdom of the Crystal Skull,2008,123.0,Action & Adventure,6.2,333847
+Indiana Jones and the Last Crusade,1989,127.0,Action & Adventure,8.3,515306
+Indiana Jones and the Temple of Doom,1984,119.0,Action & Adventure,7.6,329969
+Inglourious Basterds,2009,153.0,Action & Adventure,8.3,885175
+Inkheart,2008,106.0,Action & Adventure,6.1,60232
+Instructions Not Included,2013,122.0,Comedies,7.6,22105
+Invictus,2009,134.0,Dramas,7.4,124222
+Jackie Brown,1997,154.0,Dramas,7.5,239540
+Jay and Silent Bob Strike Back,2001,105.0,Comedies,6.9,128593
+Jersey Boys,2014,134.0,Dramas,6.9,25465
+John Carter,2012,133.0,Action & Adventure,6.6,212204
+Julie & Julia,2009,123.0,Comedies,7.0,79264
+Jumping the Broom,2011,113.0,Comedies,5.7,7973
+Jupiter Ascending,2015,128.0,Action & Adventure,5.4,139593
+Justin Bieber: Never Say Never,2011,106.0,Documentaries,1.6,74351
+K-19: The Widowmaker,2002,138.0,Action & Adventure,6.7,49311
+Kate & Leopold,2001,118.0,Comedies,6.4,64595
+Kevin Hart: Laugh at My Pain,2011,89.0,Stand-Up Comedy,7.5,3543
+Kevin Hart: Let Me Explain,2013,75.0,Stand-Up Comedy,6.7,6062
+Kickboxer: Vengeance,2016,90.0,Action & Adventure,9.1,246
+Kill Bill: Vol. 1,2003,111.0,Action & Adventure,8.1,735784
+Kill Bill: Vol. 2,2004,137.0,Action & Adventure,8.0,512749
+Killers,2010,100.0,Action & Adventure,5.4,72867
+King's Ransom,2005,98.0,Action & Adventure,4.1,3229
+Kingpin,1996,114.0,Comedies,6.9,63459
+Kiss the Girls,1997,116.0,Thrillers,6.6,50653
+Knowing,2009,121.0,Sci-Fi & Fantasy,6.2,186879
+Kung Fu Hustle,2004,99.0,Action & Adventure,7.8,99353
+La Bamba,1987,109.0,Classic Movies,6.8,21409
+Lady in the Water,2006,110.0,Sci-Fi & Fantasy,5.6,78635
+Leap Year,2010,100.0,Comedies,6.4,71276
+Left Behind,2014,110.0,Action & Adventure,3.1,24854
+Left Behind,2014,110.0,Action & Adventure,3.1,24854
+Legend of the Guardians: The Owls of Ga'Hoole,2010,97.0,Children & Family Movies,7.0,65785
+Legion,2010,100.0,Action & Adventure,5.2,80870
+Lincoln,2012,150.0,Dramas,7.4,197412
+Little Nicky,2000,90.0,Comedies,5.3,80639
+"Lock, Stock and Two Smoking Barrels",1998,108.0,Action & Adventure,8.2,414976
+Lockout,2012,95.0,Action & Adventure,6.1,82082
+Logan's Run,1976,118.0,Action & Adventure,6.8,39847
+Lolita,1962,153.0,Classic Movies,7.7,67822
+Lolita,1962,153.0,Classic Movies,7.7,67825
+Loving Annabelle,2006,77.0,Dramas,6.7,9190
+Mad Max,1979,93.0,Action & Adventure,7.0,152232
+Mad Money,2008,99.0,Comedies,5.8,16831
+Martin Lawrence Live: Runteldat,2002,104.0,Stand-Up Comedy,5.4,1466
+Mean Streets,1973,112.0,Classic Movies,7.4,67797
+Men in Black,1997,98.0,Action & Adventure,7.3,403014
+Men in Black II,2002,88.0,Action & Adventure,6.1,270207
+Midnight Special,2016,112.0,Action & Adventure,6.7,31359
+Milk,2008,128.0,Dramas,7.6,136673
+Miracle,2004,136.0,Children & Family Movies,7.5,36636
+Mirror Mirror,2012,106.0,Children & Family Movies,5.6,70838
+Miss Julie,2014,130.0,Dramas,5.6,2894
+Mona Lisa Smile,2003,119.0,Dramas,6.4,61490
+Money Talks,1997,96.0,Action & Adventure,6.1,22748
+Monster-in-Law,2005,101.0,Comedies,5.5,43358
+Moon,2009,97.0,Dramas,7.9,260607
+Movie 43,2013,94.0,Comedies,4.3,79146
+Mr. Church,2016,105.0,Dramas,8.0,63
+Mr. Deeds,2002,97.0,Comedies,5.8,110432
+Mud,2012,131.0,Dramas,7.4,135286
+Muppets Most Wanted,2014,110.0,Children & Family Movies,6.4,24285
+My Sister's Keeper,2009,109.0,Dramas,7.4,74476
+My Week with Marilyn,2011,99.0,Dramas,7.0,71679
+Nacho Libre,2006,92.0,Comedies,5.7,65551
+National Treasure,2004,131.0,Action & Adventure,6.9,255447
+New York Minute,2004,91.0,Children & Family Movies,4.8,17722
+Nightcrawler,2014,118.0,Dramas,7.9,293304
+No Reservations,2007,104.0,Comedies,6.3,59068
+Nowhere Boy,2009,99.0,Dramas,7.2,29019
+Obvious Child,2014,84.0,Comedies,6.8,16594
+Ocean's Thirteen,2007,122.0,Action & Adventure,6.9,256928
+Ocean's Twelve,2004,125.0,Action & Adventure,6.4,284852
+Once Upon a Time in the West,1968,166.0,Action & Adventure,8.6,216005
+One Direction: This Is Us,2013,92.0,Documentaries,4.1,22161
+Only God Forgives,2013,90.0,Cult Movies,5.7,83234
+Open Season,2006,86.0,Children & Family Movies,6.2,65270
+Operation Chromite,2016,111.0,Action & Adventure,6.8,90
+P.S. I Love You,2007,126.0,Dramas,7.1,167967
+Panic Room,2002,112.0,Thrillers,6.8,206104
+Paranormal Activity,2007,86.0,Horror Movies,6.3,184824
+Patriot Games,1992,117.0,Action & Adventure,6.9,81442
+Paul Blart: Mall Cop,2009,91.0,Action & Adventure,5.2,84209
+Philadelphia,1993,126.0,Classic Movies,7.7,178731
+Platoon,1986,120.0,Action & Adventure,8.1,291603
+Pulp Fiction,1994,154.0,Classic Movies,8.9,1324680
+Quantum of Solace,2008,106.0,Action & Adventure,6.7,330784
+Race to Witch Mountain,2009,99.0,Children & Family Movies,5.7,43328
+Rachel Getting Married,2008,113.0,Dramas,6.7,41226
+Raging Bull,1980,129.0,Classic Movies,8.3,235133
+Red Dawn,1984,114.0,Action & Adventure,6.4,41776
+Remember Me,2010,112.0,Dramas,7.2,113963
+Resident Evil: Afterlife,2010,97.0,Action & Adventure,5.9,131447
+Revolutionary Road,2008,120.0,Dramas,7.3,152591
+Righteous Kill,2008,101.0,Dramas,6.0,73368
+Rocky,1976,120.0,Action & Adventure,8.1,375240
+Room,2015,118.0,Dramas,8.3,161288
+Rosemary's Baby,1968,137.0,Classic Movies,8.0,140527
+Rounders,1998,121.0,Dramas,7.4,121676
+Rumble in the Bronx,1995,89.0,Action & Adventure,6.7,29843
+Runaway Bride,1999,116.0,Comedies,5.5,74274
+S.W.A.T.,2003,117.0,Action & Adventure,6.0,119807
+Safety Not Guaranteed,2012,86.0,Comedies,7.0,101287
+Sarah's Key,2010,102.0,Dramas,7.5,12937
+Sardaar ji,2015,140.0,Comedies,6.6,745
+Saving Mr. Banks,2013,126.0,Comedies,7.5,117719
+Scary Movie 5,2013,88.0,Comedies,3.5,50337
+Schindler's List,1993,195.0,Classic Movies,8.9,865020
+School Daze,1988,120.0,Comedies,5.8,4756
+Scott Pilgrim vs. the World,2010,112.0,Action & Adventure,7.5,273921
+Scream 2,1997,121.0,Horror Movies,6.1,124941
+Scream 3,2000,117.0,Horror Movies,5.5,98535
+Secret in Their Eyes,2015,111.0,Dramas,6.2,20186
+Sex and the City 2,2010,146.0,Comedies,4.3,59581
+Sherlock Holmes,2009,128.0,Action & Adventure,7.6,477300
+Shorts,2009,89.0,Children & Family Movies,4.9,5332
+Skin Trade,2014,96.0,Action & Adventure,5.7,5228
+Skyline,2010,94.0,Action & Adventure,4.4,76199
+Sleepover,2004,89.0,Comedies,5.3,12706
+Sling Blade,1996,135.0,Dramas,8.0,72443
+Slow West,2015,84.0,Action & Adventure,6.9,27650
+Small Soldiers,1998,110.0,Action & Adventure,6.1,77415
+Something's Gotta Give,2003,128.0,Comedies,6.7,91092
+Soul Surfer,2011,106.0,Dramas,7.1,35514
+Spider-Man 3,2007,139.0,Action & Adventure,6.2,383056
+Spider-Man 3,2007,139.0,Action & Adventure,6.2,383071
+Spotlight,2015,129.0,Dramas,8.1,195333
+Spring Breakers,2012,94.0,Comedies,5.3,108683
+Spy Kids,2001,88.0,Children & Family Movies,5.4,84325
+Step Brothers,2008,98.0,Comedies,6.9,212499
+Stranger than Fiction,2006,113.0,Comedies,7.6,186977
+Stripes,1981,106.0,Classic Movies,6.9,48629
+Striptease,1996,117.0,Comedies,4.3,34896
+Stuart Little 2,2002,78.0,Children & Family Movies,5.4,36471
+Superbad,2007,113.0,Comedies,7.6,422606
+Superman Returns,2006,154.0,Action & Adventure,6.1,240396
+Superstar,1999,82.0,Comedies,5.0,15047
+Take Me Home Tonight,2011,97.0,Comedies,6.3,43867
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991,88.0,Children & Family Movies,6.0,42765
+Terminator 3: Rise of the Machines,2003,109.0,Action & Adventure,6.4,305340
+Terminator Salvation,2009,115.0,Action & Adventure,6.6,286095
+The Adventures of Tintin,2011,107.0,Children & Family Movies,7.4,177383
+The American President,1995,113.0,Comedies,6.8,43027
+The Amityville Horror,2005,89.0,Horror Movies,6.0,80903
+The Art of War,2000,117.0,Action & Adventure,5.7,25346
+The Book of Eli,2010,118.0,Action & Adventure,6.9,227072
+The Bounty Hunter,2010,111.0,Action & Adventure,5.5,96565
+The Box,2009,116.0,Sci-Fi & Fantasy,5.6,76303
+The Boy,2016,97.0,Horror Movies,6.0,35654
+The Boy in the Striped Pajamas,2008,95.0,Dramas,7.8,132386
+The Break-Up,2006,107.0,Comedies,5.8,102167
+The Brothers Grimm,2005,119.0,Action & Adventure,5.9,98472
+The Bucket List,2007,97.0,Comedies,7.4,184795
+The Christmas Candle,2013,100.0,Dramas,5.8,844
+The Craft,1996,101.0,Horror Movies,6.2,57140
+The Croods,2013,99.0,Children & Family Movies,7.3,150618
+The Crow,1994,102.0,Action & Adventure,7.6,136580
+The Crying Game,1992,112.0,Classic Movies,7.3,41361
+The Departed,2006,151.0,Dramas,8.5,873649
+The Devil Inside,2012,84.0,Horror Movies,4.2,30570
+The Dukes of Hazzard,2005,104.0,Action & Adventure,5.1,66382
+The Evil Dead,1981,85.0,Classic Movies,7.6,141219
+The Fighter,2010,116.0,Dramas,7.9,275869
+The Final Destination,2009,82.0,Horror Movies,5.2,75345
+The First Wives Club,1996,103.0,Comedies,6.2,31817
+The Flintstones,1994,91.0,Children & Family Movies,4.8,60884
+The Flintstones in Viva Rock Vegas,2000,91.0,Children & Family Movies,3.6,15517
+The Forbidden Kingdom,2008,104.0,Action & Adventure,6.6,88049
+The Frozen Ground,2013,106.0,Dramas,6.4,43879
+The Girl with the Dragon Tattoo,2011,158.0,Dramas,7.8,330152
+"The Goods: Live Hard, Sell Hard",2009,89.0,Comedies,5.8,17790
+The Great Raid,2005,133.0,Action & Adventure,6.7,18209
+The Green Hornet,2011,119.0,Action & Adventure,5.8,136019
+The Haunting of Molly Hartley,2008,85.0,Horror Movies,3.8,7904
+The Help,2011,147.0,Dramas,8.1,318955
+The Hundred-Foot Journey,2014,123.0,Comedies,7.3,52894
+The Imaginarium of Doctor Parnassus,2009,123.0,Action & Adventure,6.8,126307
+The Indian in the Cupboard,1995,96.0,Children & Family Movies,5.9,20688
+The Informant!,2009,108.0,Comedies,6.5,52888
+The Invention of Lying,2009,99.0,Comedies,6.4,94292
+The Iron Lady,2011,105.0,Dramas,6.4,82327
+The King's Speech,2010,118.0,Dramas,8.0,503631
+The Lake House,2006,98.0,Dramas,6.8,114321
+The Last Exorcism,2010,88.0,Horror Movies,5.6,41509
+The Little Prince,2015,107.0,Children & Family Movies,7.8,28276
+The Lives of Others,2006,138.0,Dramas,8.5,259379
+The Longshots,2008,95.0,Comedies,5.1,3174
+The Lord of the Rings: The Return of the King,2003,201.0,Action & Adventure,8.9,1215718
+The Lord of the Rings: The Two Towers,2002,179.0,Action & Adventure,8.7,1100446
+The Love Guru,2008,87.0,Comedies,3.8,43300
+The Mask of Zorro,1998,138.0,Action & Adventure,6.7,135404
+The Matrix,1999,136.0,Action & Adventure,8.7,1217752
+The Matrix Reloaded,2003,138.0,Action & Adventure,7.2,421818
+The Matrix Revolutions,2003,129.0,Action & Adventure,6.7,364948
+The Men Who Stare at Goats,2009,94.0,Comedies,6.2,109620
+The Muppets,2011,104.0,Children & Family Movies,7.1,75176
+The Other Guys,2010,108.0,Action & Adventure,6.7,189806
+The Peacemaker,1997,124.0,Action & Adventure,5.9,46451
+The Pelican Brief,1993,141.0,Dramas,6.5,59569
+The Perks of Being a Wallflower,2012,103.0,Comedies,8.0,351274
+The Phantom of the Opera,2004,141.0,Dramas,7.4,96654
+The Pink Panther,2006,93.0,Children & Family Movies,5.6,65499
+The Pirates! Band of Misfits,2012,88.0,Children & Family Movies,6.7,36877
+The Place Beyond the Pines,2012,140.0,Dramas,7.3,187170
+The Polar Express,2004,100.0,Children & Family Movies,6.6,120798
+The Prince,2014,91.0,Action & Adventure,4.6,13133
+The Princess and the Frog,2009,98.0,Children & Family Movies,7.1,89351
+The Pursuit of Happyness,2006,117.0,Dramas,8.0,338383
+The Rainmaker,1997,136.0,Dramas,7.1,46221
+The River Wild,1994,111.0,Action & Adventure,6.3,32544
+The Roommate,2011,91.0,Thrillers,4.8,29147
+The Score,2001,124.0,Dramas,6.8,101899
+The Signal,2014,97.0,Sci-Fi & Fantasy,6.1,48236
+The Social Network,2010,121.0,Dramas,7.7,479453
+The Spectacular Now,2013,95.0,Dramas,7.1,105591
+The Spy Next Door,2010,94.0,Action & Adventure,5.4,29971
+The Talented Mr. Ripley,1999,139.0,Dramas,7.3,137891
+The Time Machine,2002,96.0,Action & Adventure,5.9,103787
+The Time Traveler's Wife,2009,107.0,Dramas,7.1,114925
+The Tuxedo,2002,99.0,Action & Adventure,5.3,61966
+The Ugly Truth,2009,96.0,Comedies,6.5,163665
+The Vatican Tapes,2015,91.0,Horror Movies,4.5,7199
+The Water Diviner,2014,111.0,Dramas,7.1,53341
+The Waterboy,1998,90.0,Comedies,6.1,119450
+The Witch,2015,92.0,Horror Movies,6.8,66483
+The World Is Not Enough,1999,128.0,Action & Adventure,6.4,157519
+Tomorrow Never Dies,1997,119.0,Action & Adventure,6.5,149680
+Trainspotting,1996,94.0,Comedies,8.2,469561
+Transcendence,2014,119.0,Sci-Fi & Fantasy,6.3,172707
+Trash,2014,114.0,Dramas,7.2,14437
+Tremors,1990,96.0,Comedies,7.1,90070
+Turbo,2013,96.0,Children & Family Movies,6.5,62424
+Tusk,2014,102.0,Horror Movies,5.4,31089
+Two Lovers and a Bear,2016,95.0,Dramas,7.2,33
+Unaccompanied Minors,2006,90.0,Children & Family Movies,5.1,8398
+Under The Skin,2013,108.0,Dramas,6.3,85022
+Up in the Air,2009,110.0,Comedies,7.4,270238
+V for Vendetta,2005,132.0,Action & Adventure,8.2,791783
+Vantage Point,2008,90.0,Action & Adventure,6.6,127528
+Waiting...,2005,94.0,Comedies,6.8,76467
+War,2007,103.0,Action & Adventure,6.3,72673
+War Horse,2011,147.0,Dramas,7.2,116159
+We Are Your Friends,2015,96.0,Dramas,6.1,20885
+What Lies Beneath,2000,130.0,Horror Movies,6.6,98403
+Wild Wild West,1999,106.0,Action & Adventure,4.8,129601
+Willy Wonka & the Chocolate Factory,1971,100.0,Children & Family Movies,7.8,128334
+Winter's Bone,2010,100.0,Dramas,7.2,111658
+Wish I Was Here,2014,106.0,Comedies,6.7,29341
+World Trade Center,2006,129.0,Action & Adventure,6.0,67395
+Wyatt Earp,1994,191.0,Action & Adventure,6.6,35314
+XXx,2002,124.0,Action & Adventure,5.8,142569
+XXX: State of the Union,2005,101.0,Action & Adventure,4.3,51349
+Y Tu Mamá También,2001,106.0,Dramas,7.7,91377
+Yoga Hosers,2016,88.0,Comedies,4.8,849
+You Don't Mess with the Zohan,2008,113.0,Action & Adventure,5.5,156348
+Young Adult,2011,94.0,Comedies,6.3,64682
+Zodiac,2007,158.0,Cult Movies,7.7,301279
+Zombieland,2009,88.0,Comedies,7.7,386217
+Zoom,2006,88.0,Children & Family Movies,4.2,15015
