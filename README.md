@@ -184,6 +184,18 @@ Overall, both audience behavior and movie characteristics influence movie rating
 
 ---
 
+## Machine Learning
+
+A linear regression model was used to predict IMDb scores.
+
+Results:
+- RMSE: 0.7886
+- R² Score: 0.3047
+
+### Prediction Visualization
+
+![ML](plots/ml_actual_vs_predicted.png)
+
 ## Author
 
 Alim Ata Balcı
