@@ -184,17 +184,76 @@ Overall, both audience behavior and movie characteristics influence movie rating
 
 ---
 
-## Machine Learning
+## Machine Learning Analysis
 
-A linear regression model was used to predict IMDb scores.
+Multiple machine learning models were applied and compared to predict IMDb movie scores.
 
-Results:
-- RMSE: 0.7886
-- R² Score: 0.3047
+### Models Used
 
-### Prediction Visualization
+- Linear Regression
+- Ridge Regression
+- Random Forest Regressor
+- Gradient Boosting Regressor
 
-![ML](plots/ml_actual_vs_predicted.png)
+### Evaluation Metrics
+
+The models were evaluated using:
+
+- RMSE (Root Mean Squared Error)
+- MAE (Mean Absolute Error)
+- R² Score
+
+### Model Comparison Results
+
+| Model | RMSE | MAE | R² |
+|---|---|---|---|
+| Linear Regression | 0.7887 | 0.6104 | 0.3048 |
+| Ridge Regression | 0.7886 | 0.6103 | 0.3050 |
+| Random Forest | 0.7553 | 0.5706 | 0.3624 |
+| Gradient Boosting | 0.7797 | 0.5756 | 0.3205 |
+
+### Best Performing Model
+
+The Random Forest model achieved the best performance with:
+
+- Lowest RMSE
+- Lowest MAE
+- Highest R² score
+
+This suggests that nonlinear ensemble methods perform better than simple linear models for predicting movie ratings.
+
+---
+
+### Feature Importance Analysis
+
+The most influential variables were:
+
+- Number of voted users
+- Movie duration
+- Release year
+- Drama genre
+
+This indicates that audience engagement and movie characteristics both play important roles in IMDb ratings.
+
+---
+
+### Machine Learning Visualizations
+
+#### RMSE Comparison
+
+![RMSE](plots/ml_model_comparison_rmse.png)
+
+#### R² Comparison
+
+![R2](plots/ml_model_comparison_r2.png)
+
+#### Feature Importance
+
+![Feature Importance](plots/ml_feature_importance.png)
+
+#### Actual vs Predicted Scores
+
+![Prediction](plots/ml_actual_vs_predicted_best_model.png)
 
 ## Author
 
